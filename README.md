@@ -71,7 +71,7 @@ Contributions are encouraged! Whether you want to enhance the analysis or add ne
 
 Questions or suggestions? Reach out to me:
 
-- **Ankit Kumar**
-- **Email:** [ankitkumarbgp.official@gmail.com](mailto:ankitkumarbgp.official@gmail.com)
+- **ANIL KUMAR NALLA**
+- **Email:** [nalla.anil94@gmail.com](mailto:nalla.anil94@gmail.com)
 
 Explore the world's data, analyze global trends, and uncover the stories within the World Bank Group dataset! 🌍📊
