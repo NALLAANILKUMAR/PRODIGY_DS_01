@@ -1,7 +1,7 @@
 # Prodigy Infotech Data Science Internship Task 01
 
 <div align="center">
-  <img src="https://github.com/gl-ankit-kumar/PRODIGY_DS_01/blob/main/The-World-Bank-logo.png" alt="World Bank Logo">
+  <img src="https://github.com/NALLAANILKUMAR/PRODIGY_DS_01/blob/main/The-World-Bank-logo.png" alt="World Bank Logo">
 </div>
 
 Embark on an insightful global data exploration with the World Bank Group Analysis! 🌐📈 This repository presents a comprehensive examination of a World Bank Group dataset using Python in a Jupyter Notebook. Delve into intriguing trends and patterns showcased through engaging visualizations and analyses.
