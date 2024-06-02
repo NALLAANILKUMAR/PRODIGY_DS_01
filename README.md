@@ -53,7 +53,7 @@ Further analysis and exploration can be conducted to gain deeper insights into d
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/gl-ankit-kumar/PRODIGY_DS_01.git
+    git clone https://github.com/NALLAANILKUMAR/PRODIGY_DS_01.git
     ```
 
 2. **Explore with Jupyter Notebook:**
